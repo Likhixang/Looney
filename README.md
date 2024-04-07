@@ -1,1 +1,3 @@
-<div><h1 style="text-align:center;"><strong>Kx‘s Colls&Achvs</strong></h1></div>
+<div align="center">
+  <strong><h1> Kx‘s Colls&Achvs </h1></strong>
+</div>

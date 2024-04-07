@@ -1,5 +1,5 @@
 /*
-FROM:https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/header.js
+FROM:https://raw.githubusercontent.com/app2smile/rules/master/js/adsense.js
 */
 
 const url = $request.url;

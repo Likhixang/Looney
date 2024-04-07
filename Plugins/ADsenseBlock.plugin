@@ -1,7 +1,8 @@
 #!name=ADsenseBlock
 #!desc=Kuaishou union_bd,adnet.qq,.csjplatform
-#!openUrl=https://github.com/app2smile/rules
+#!openUrl=
 #!author = app2smile, LiKhixang
+#!homepage = https://github.com/app2smile
 #!icon = https://raw.githubusercontent.com/Likhixang/Looney/main/Icons/ADBlock.jpg
 [Mitm]
 hostname = api-access.pangolin-sdk-toutiao.com, mi.gdt.qq.com, open.e.kuaishou.com

@@ -1,0 +1,20 @@
+#!name = 12306 Remove ADs
+#!desc = Filter 12306 in-app ADs and splash ADs.
+#!openUrl = 
+#!author = RuCu6, LiKhixang
+#!homepage = https://github.com/RuCu6, https://github.com/Likhixang
+#!icon = https://raw.githubusercontent.com/Likhixang/Looney/main/Icons/12306.jpg
+#!date = 2024-04-07 18:54:29
+
+[Rule]
+
+DOMAIN, ad.12306.cn, DIRECT
+
+[Script]
+
+http-request ^https:\/\/ad\.12306\.cn\/ad\/ser\/getAdList$ script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/12306/12306_remove_splashscreen_ads.js, requires-body = true, tag = splash ADs
+
+http-response ^https:\/\/mobile\.12306\.cn\/otsmobile\/app\/mgs\/mgw\.htm$ script-path = https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Resource/Script/12306/12306_remove_ads.js, tag = in-app ADs
+
+[Mitm]
+hostname = ad.12306.cn, mobile.12306.cn

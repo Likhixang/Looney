@@ -3,6 +3,32 @@
 </div>
 
 ## Special THX.
-[_RuCu6_](https://github.com/RuCu6) `12306 Remove ADs`
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
 
-[_app2smile_](https://github.com/app2smile)`ADsenseBlock`
+<table>
+  <tr>
+    <th>Author(s)</th>
+    <th>Project(s)</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RuCu6">_RuCu6_</a></td>
+    <td>12306 Remove ADs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/app2smile">_app2smile_</a></td>
+    <td>ADsenseBlock</td>
+  </tr>
+</table>

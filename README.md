@@ -17,8 +17,7 @@
 <!-- Copyright Notice -->
 
 <div>
-&emsp;&emsp;Loon is a powerful network tool on iOS.
-This repository collects some of the loon <a href="https://github.com/Likhixang/Looney/tree/main/Icons">Icons</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/JavaScripts">JavaScripts</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Plugins">Plugins</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Profiles">Profiles</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Rules">Rules</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Scripts">Scripts</a>,&nbsp that I usually use.
+&emsp;&emsp;This repository collects some of the loon <a href="https://github.com/Likhixang/Looney/tree/main/Icons">Icons</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/JavaScripts">JavaScripts</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Plugins">Plugins</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Profiles">Profiles</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Rules">Rules</a>,&nbsp<a href="https://github.com/Likhixang/Looney/tree/main/Scripts">Scripts</a>,&nbsp that I usually use.
 </div>
 
 <!-- Introduction of Loon --> 

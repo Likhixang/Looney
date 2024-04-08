@@ -1,5 +1,5 @@
 <div align="center">
-  <strong><h1> Kx‘s Colls&Achvs </h1></strong>
+  <strong><h1> Kx‘s Colls&Achvs for <a href="https://apps.apple.com/in/app/loon/id1373567447">Loon</a></h1></strong>
 </div>
 
 <!-- Title -->
@@ -17,7 +17,7 @@
 <!--Copyright Notice-->
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;Loon is a powerful network tool on iOS <a href="https://apps.apple.com/in/app/loon/id1373567447">Appstore</a> that supports traffic diversion based on domain name, IP, URL, and SSID rules. The powerful policy group combination can meet any network diversion needs. Loon can capture, save, and modify HTTP/HTTPs traffic, and can handle any complex needs with Javascript.
+&nbsp;&nbsp;&nbsp;&nbsp;Loon is a powerful network tool on iOS that supports traffic diversion based on domain name, IP, URL, and SSID rules. The powerful policy group combination can meet any network diversion needs. Loon can capture, save, and modify HTTP/HTTPs traffic, and can handle any complex needs with Javascript.
 </div>
 
 <!--Introduction of loon--> 

@@ -17,8 +17,7 @@
 <!--Copyright Notice-->
 
 <div>
-<p style="text-indent: 2em;"><!--Set first line indent-->
-Loon is a powerful network tool on iOS <a href="https://apps.apple.com/in/app/loon/id1373567447">Appstore</a> that supports traffic diversion based on domain name, IP, URL, and SSID rules. The powerful policy group combination can meet any network diversion needs. Loon can capture, save, and modify HTTP/HTTPs traffic, and can handle any complex needs with Javascript.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;Loon is a powerful network tool on iOS <a href="https://apps.apple.com/in/app/loon/id1373567447">Appstore</a> that supports traffic diversion based on domain name, IP, URL, and SSID rules. The powerful policy group combination can meet any network diversion needs. Loon can capture, save, and modify HTTP/HTTPs traffic, and can handle any complex needs with Javascript.
 </div>
  
 ## Special Thanks:

@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>The copyright of the "Loon" belongs to <a href="https://github.com/Loon0x00">Loon0x00</a></h3>
+  <h3>The copyright&copy; of the "Loon" belongs to <a href="https://github.com/Loon0x00">Loon0x00</a></h3>
 </div>
   
 ## Special THX.

@@ -20,11 +20,15 @@
     <th>Project(s)</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/RuCu6">RuCu6</a></td>
+<td>
+  <img src="https://avatars.githubusercontent.com/u/49463634?v=4" width="24" height="24">     
+<a href="https://github.com/RuCu6">RuCu6</a>
+</td>
     <td>12306 Remove ADs</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/app2smile">app2smile</a></td>
+<td> <img src="https://avatars.githubusercontent.com/u/34903735?v=4" width="24" height="24">
+<a href="https://github.com/app2smile">app2smile</a></td>
     <td>ADsenseBlock</td>
   </tr>
 </table>

@@ -3,7 +3,6 @@
 </div>
 
 <!-- Title -->
-<div style="border: 2px solid #0969DA; padding: 16px;">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Likhixang/Looney/main/Icons/loon.png" width="128" height="128">
@@ -14,9 +13,6 @@
 <div align="center">
   <h5><strong>The copyright&copy; of the "Loon" belongs to <a href="https://github.com/Loon0x00">Loon0x00</a></strong></h5>
 </div>
-
-</div>
-
 
 <!-- Copyright Notice -->
 

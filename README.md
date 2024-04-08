@@ -21,13 +21,13 @@
   </tr>
   <tr>
 <td>
-  <img src="https://avatars.githubusercontent.com/u/49463634?v=4" width="24" height="24">     
+  <img src="https://avatars.githubusercontent.com/u/49463634?v=4" width="16" height="16">     
 <a href="https://github.com/RuCu6">RuCu6</a>
 </td>
     <td>12306 Remove ADs</td>
   </tr>
   <tr>
-<td> <img src="https://avatars.githubusercontent.com/u/34903735?v=4" width="24" height="24">
+<td> <img src="https://avatars.githubusercontent.com/u/34903735?v=4" width="16" height="16">
 <a href="https://github.com/app2smile">app2smile</a></td>
     <td>ADsenseBlock</td>
   </tr>

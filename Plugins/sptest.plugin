@@ -8,7 +8,7 @@
 #!category=
 
 [Script]
-http-request ^https?:\/\/api\.spotify\.com\/v1\/me\/player\/currently-playing requires-body=1, script-path=https://raw.githubusercontent.com/Likhixang/Looney/main/JavaScripts/sptest.js?token=GHSAT0AAAAAACQCN2U5FQA33OP5VVTDG73WZQWQNAQ
+http-request ^https?:\/\/api\.spotify\.com\/v1\/me\/player\/currently-playing requires-body=1, script-path=https://raw.githubusercontent.com/Likhixang/Looney/main/JavaScripts/sptest.js
 
 [MITM]
 hostname = api.spotify.com, spclient.wg.spotify.com

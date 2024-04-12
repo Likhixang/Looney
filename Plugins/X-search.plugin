@@ -1,0 +1,34 @@
+#!name = X-search
+#!desc = Safari quick search and page jump,How to use refer to the following link
+#!openUrl = 
+#!author = Li Khixang
+#!homepage = https://github.com/Likhixang
+#!icon = https://raw.githubusercontent.com/Likhixang/Looney/main/Icons/Safari.JPG
+#!date = 2024-04-12 17:06:29
+[Rewrite]
+# Quickwords+Space+Search contents
+# Set Safari's default search engine to duckduckgo
+
+# bd = Baidu
+# bdimg = Baiduimg
+# gimg = Google img
+#  b = Bing
+# bing = Bing
+# wk = Wikipedia
+#  wiki = Wikipedia
+# qm = Qimai
+# gh = GitHub
+# github = GitHub
+# default = Google
+
+^https:\/\/duckduckgo\.com\/\?q=bd\+([^&]+).+ 302 https://www.baidu.com/s?wd=$1
+^https:\/\/duckduckgo\.com\/\?q=bdimg\+([^&]+).+ 302 https://image.baidu.com/search/index?tn=baiduimage&word=$1
+^https:\/\/duckduckgo\.com\/\?q=gimg\+([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$1
+^https:\/\/duckduckgo\.com\/\?q=b\+([^&]+).+ 302 https://www.bing.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=wk\+([^&]+).+ 302 https://zh.wikipedia.org/wiki/$1
+^https:\/\/duckduckgo\.com\/\?q=qm\+([^&]+).+ 302 https://www.qimai.cn/search/index/country/cn/search/$1
+^https:\/\/duckduckgo\.com\/\?q=gh\+([^&]+).+ 302 https://github.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.google.com/search?q=$1
+
+[Mitm]
+hostname = duckduckgo.com

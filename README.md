@@ -32,9 +32,3 @@
 
 
 <h3><strong>Special Thanks:</strong></h3>
-
-| Author(s) | Project(s) |
-| --------- | ---------- |
-| <img src="https://avatars.githubusercontent.com/u/49463634?v=4" width="16" height="16"> [RuCu6](https://github.com/RuCu6) | 12306 Remove ADs <br> AMap NoADs|
-| <img src="https://avatars.githubusercontent.com/u/34903735?v=4" width="16" height="16"> [app2smile](https://github.com/app2smile) | ADsenseBlock |
-| <img src="https://avatars.githubusercontent.com/u/75901403?v=4" width="16" height="16"> [kokoryh](https://github.com/kokoryh) |AMap NoADs |

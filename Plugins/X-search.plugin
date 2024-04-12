@@ -11,25 +11,36 @@
 
 # bd = Baidu
 # bdimg = Baidu img
-# gimg = Google img
 # b = Bing
 # bing = Bing
+# gimg = Google img
 # wk = Wikipedia
 # wiki = Wikipedia
 # qm = Qimai
 # gh = GitHub
 # github = GitHub
+# tf = google search for testflight
+# fanyi = google translate
+# youtube = youtube
+# pornhub = pornhub
+# tmdb = TMDB
 # default = Google
 
 ^https:\/\/duckduckgo\.com\/\?q=bd\+([^&]+).+ 302 https://www.baidu.com/s?wd=$1
 ^https:\/\/duckduckgo\.com\/\?q=bdimg\+([^&]+).+ 302 https://image.baidu.com/search/index?tn=baiduimage&word=$1
-^https:\/\/duckduckgo\.com\/\?q=gimg\+([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=b\+([^&]+).+ 302 https://www.bing.com/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=bing\+([^&]+).+ 302 https://www.bing.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=gimg\+([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=wk\+([^&]+).+ 302 https://zh.wikipedia.org/wiki/$1
+^https:\/\/duckduckgo\.com\/\?q=wiki\+([^&]+).+ 302 https://zh.wikipedia.org/wiki/$1
 ^https:\/\/duckduckgo\.com\/\?q=qm\+([^&]+).+ 302 https://www.qimai.cn/search/index/country/cn/search/$1
 ^https:\/\/duckduckgo\.com\/\?q=gh\+([^&]+).+ 302 https://github.com/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=github\+([^&]+).+ 302 https://github.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=tf\+([^&]+).+ 302 https://www.google.com/search?as_q=$1&as_sitesearch=testflight.apple.com
+^https:\/\/duckduckgo\.com\/\?q=fanyi\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$1
+^https:\/\/duckduckgo\.com\/\?q=youtube\+([^&]+).+ 302 https://www.youtube.com/results?search_query=$1
+^https:\/\/duckduckgo\.com\/\?q=pornhub\+([^&]+).+ 302 https://cn.pornhub.com/video/search?search=$1
+^https:\/\/duckduckgo\.com\/\?q=tmdb\+([^&]+).+ 302 https://www.themoviedb.org/search?query=$1
 ^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.google.com/search?q=$1
 
 [Mitm]

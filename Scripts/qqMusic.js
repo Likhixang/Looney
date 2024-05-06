@@ -19,8 +19,8 @@
 ❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀
 涉及歌单：https://y.qq.com/n/ryqq/playlist/7001048679
 涉及歌曲：
-七里香：https://y.qq.com/n/ryqq/songDetail/102065756 songId 102065756
-梦里花：https://y.qq.com/n/ryqq/songDetail/182517 songId 182517
+lm：https://y.qq.com/n/ryqq/songDetail/418150731 songId 418150731
+wlwq：https://y.qq.com/n/ryqq/songDetail/410642900 songId 410642900
 最初的爱：https://y.qq.com/n/ryqq/songDetail/406071231 songId 406071231
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 📌 重写获取Cookie：
@@ -67,7 +67,7 @@ $.desc = "";
 $.info=function(message){originalInfo.call($,message);$.desc+=message+"\n"};$.warn=function(message){originalWarn.call($,message);$.desc+=message+"\n"};$.error=function(message){originalError.call($,message);$.desc+=message+"\n"};
 
 let v_playlistId = 7001048679;
-let songIds = [102065756, 182517, 406071231]
+let songIds = [418150731, 410642900, 406071231]
 let g_tk = get_g_tk();
 const QQMUSIC_API_HOST = "https://u6.y.qq.com/cgi-bin/musics.fcg";
 

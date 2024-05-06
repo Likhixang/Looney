@@ -2,9 +2,9 @@
 *@file       QQ音乐
 *@desp       本脚本仅适用于QQ音乐部分积分任务，仅测试Quantumult X、青龙
 *@env        qqMusicLogLevel, qqMusicCookie
-*@author     WowYiJiu
+*@author     thanks:WowYiJiu
 *@updated    2024-5-2
-*@version    v1.0.1
+*@version    v1.0.1 change link
 *@link       https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 详细功能：
@@ -17,11 +17,11 @@
 🔵 收藏3首歌曲任务
 🔵 领取累计任务奖励
 ❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀
-涉及歌单：https://y.qq.com/n/ryqq/playlist/7629028045
+涉及歌单：https://y.qq.com/n/ryqq/playlist/7001048679
 涉及歌曲：
-Lost Rivers：https://y.qq.com/n/ryqq/songDetail/002cqdkU0UC9xS songId 2647084
-你xx：https://y.qq.com/n/ryqq/songDetail/001e7Bc31ZkdFs songId 330635978
-曾经那个少年：https://y.qq.com/n/ryqq/songDetail/000y1Czc3427Lq songId 271703107
+七里香：https://y.qq.com/n/ryqq/songDetail/102065756 songId 102065756
+梦里花：https://y.qq.com/n/ryqq/songDetail/182517 songId 182517
+最初的爱：https://y.qq.com/n/ryqq/songDetail/406071231 songId 406071231
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 📌 重写获取Cookie：
 1.进入QQ音乐app，点击我的，点击头像下的金币按钮进入任务页面看到系统消息提示'成功'即可

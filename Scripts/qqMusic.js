@@ -5,7 +5,7 @@
 *@author     thanks:WowYiJiu
 *@updated    2024-5-2
 *@version    v1.0.1 change link
-*@link       https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
+*@link       https://raw.githubusercontent.com/Likhixang/Looney/main/Scripts/qqMusic.js
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 详细功能：
 🔵 每日签到
@@ -35,14 +35,14 @@
 hostname = *.y.qq.com
 
 [rewrite_local]
-https://c6.y.qq.com/shop/fcgi-bin/fcg_get_order? url script-request-header https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
-https://u6.y.qq.com/cgi-bin/musics.fcg? url script-request-header https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
+https://c6.y.qq.com/shop/fcgi-bin/fcg_get_order? url script-request-header https://raw.githubusercontent.com/Likhixang/Looney/main/Scripts/qqMusic.js
+https://u6.y.qq.com/cgi-bin/musics.fcg? url script-request-header https://raw.githubusercontent.com/Likhixang/Looney/main/Scripts/qqMusic.js
 
 [rewrite_remote]
 https://raw.githubusercontent.com/WowYiJiu/Personal/main/rewrite/get_qqMusic_cookie.conf, tag=QQ音乐, update-interval=172800, opt-parser=false, enabled=false
 
 [task_local]
-25 7-12/1 * * * https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js, tag=QQ音乐, img-url=https://raw.githubusercontent.com/WowYiJiu/Personal/main/icon/Color/qqMusic.png, enabled=true
+25 7-12/1 * * * https://raw.githubusercontent.com/Likhixang/Looney/main/Scripts/qqMusic.js, tag=QQ音乐, img-url=https://raw.githubusercontent.com/WowYiJiu/Personal/main/icon/Color/qqMusic.png, enabled=true
 */
 
 const $ = new Env("QQ音乐");
@@ -66,8 +66,8 @@ let message = "";
 $.desc = "";
 $.info=function(message){originalInfo.call($,message);$.desc+=message+"\n"};$.warn=function(message){originalWarn.call($,message);$.desc+=message+"\n"};$.error=function(message){originalError.call($,message);$.desc+=message+"\n"};
 
-let v_playlistId = 7629028045;
-let songIds = [2647084, 330635978, 271703107]
+let v_playlistId = 7001048679;
+let songIds = [102065756, 182517, 406071231]
 let g_tk = get_g_tk();
 const QQMUSIC_API_HOST = "https://u6.y.qq.com/cgi-bin/musics.fcg";
 
@@ -773,7 +773,7 @@ async function getNotice() {
 async function getVersion() {
     const timeoutMs = 10000;
     const opt = { 
-        url: "https://github.wowyijiu.today/https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js",
+        url: "https://github.wowyijiu.today/https://raw.githubusercontent.com/Likhixang/Looney/main/Scripts/qqMusic.js",
         timeout: timeoutMs 
     };
     const data = await new Promise((resolve) => {

@@ -15,6 +15,7 @@
 # bing = Bing
 # gimg = Google img
 # gpt = SearchGPT
+# pp = Perplexity
 # wk = Wikipedia
 # wiki = Wikipedia
 # qm = Qimai
@@ -33,6 +34,7 @@
 ^https:\/\/duckduckgo\.com\/\?q=bing\+([^&]+).+ 302 https://www.bing.com/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=gimg\+([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=gpt\+([^&]+).+ 302 https://chatgpt.com/?hints=search&q=$1
+^https:\/\/duckduckgo\.com\/\?q=pp\+([^&]+).+ 302 https://www.perplexity.ai/search/new?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=wk\+([^&]+).+ 302 https://zh.wikipedia.org/wiki/$1
 ^https:\/\/duckduckgo\.com\/\?q=wiki\+([^&]+).+ 302 https://zh.wikipedia.org/wiki/$1
 ^https:\/\/duckduckgo\.com\/\?q=qm\+([^&]+).+ 302 https://www.qimai.cn/search/index/country/cn/search/$1

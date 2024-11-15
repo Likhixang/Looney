@@ -13,6 +13,7 @@
 |   bing    | [Bing](https://www.bing.com/)        |
 |   gimg    | [Google img](https://images.google.com/)|
 |   gpt    | [GPT](https://chatgpt.com/)        |
+|   pp    | [Perplexity](https://www.perplexity.ai)        |
 |    wk     | [Wikipedia](https://zh.wikipedia.org/)|
 |   wiki    | [Wikipedia](https://zh.wikipedia.org/)|
 |    qm     | [Qimai](https://www.qimai.cn/)      |

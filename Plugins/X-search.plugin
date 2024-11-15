@@ -26,6 +26,7 @@
 # youtube = youtube
 # pornhub = pornhub
 # tmdb = TMDB
+# ddg = duckduckgo
 # default = Google
 
 ^https:\/\/duckduckgo\.com\/\?q=bd\+([^&]+).+ 302 https://www.baidu.com/s?wd=$1
@@ -45,6 +46,7 @@
 ^https:\/\/duckduckgo\.com\/\?q=youtube\+([^&]+).+ 302 https://www.youtube.com/results?search_query=$1
 ^https:\/\/duckduckgo\.com\/\?q=pornhub\+([^&]+).+ 302 https://cn.pornhub.com/video/search?search=$1
 ^https:\/\/duckduckgo\.com\/\?q=tmdb\+([^&]+).+ 302 https://www.themoviedb.org/search?query=$1
+^https:\/\/duckduckgo\.com\/\?q=ddg\+([^&]+).+ 302 https://duckduckgo.com/?t=h_&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.google.com/search?q=$1
 
 [Mitm]

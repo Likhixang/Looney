@@ -13,7 +13,7 @@
 |   bing    | [Bing](https://www.bing.com/)        |
 |   gimg    | [Google img](https://images.google.com/)|
 |   gpt    | [GPT](https://chatgpt.com/)        |
-|   pp    | [Perplexity](https://www.perplexity.ai)        |
+|   pp    | [Perplexity](https://www.perplexity.ai/)        |
 |    wk     | [Wikipedia](https://zh.wikipedia.org/)|
 |   wiki    | [Wikipedia](https://zh.wikipedia.org/)|
 |    qm     | [Qimai](https://www.qimai.cn/)      |
@@ -24,5 +24,6 @@
 |  youtube  | [YouTube](https://www.youtube.com/)  |
 |  pornhub  | [Pornhub](https://cn.pornhub.com/)   |
 |   tmdb    | [TMDB](https://www.themoviedb.org/)  |
+|   ddg    | [Duckduckgo](https://duckduckgo.com/)        |
 |  Default  | [Google](https://www.google.com/)    |
 | Ongoing   | Stay tuned...                        |

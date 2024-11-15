@@ -12,6 +12,7 @@
 |     b     | [Bing](https://www.bing.com/)        |
 |   bing    | [Bing](https://www.bing.com/)        |
 |   gimg    | [Google img](https://images.google.com/)|
+|   gpt    | [GPT](https://chatgpt.com/)        |
 |    wk     | [Wikipedia](https://zh.wikipedia.org/)|
 |   wiki    | [Wikipedia](https://zh.wikipedia.org/)|
 |    qm     | [Qimai](https://www.qimai.cn/)      |

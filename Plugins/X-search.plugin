@@ -13,6 +13,7 @@
 # bdimg = Baidu img
 # b = Bing
 # bing = Bing
+# gg = Google
 # gimg = Google img
 # gpt = SearchGPT
 # pp = Perplexity
@@ -27,12 +28,13 @@
 # pornhub = pornhub
 # tmdb = TMDB
 # ddg = duckduckgo
-# default = Google
+# default = Bing
 
 ^https:\/\/duckduckgo\.com\/\?q=bd\+([^&]+).+ 302 https://www.baidu.com/s?wd=$1
 ^https:\/\/duckduckgo\.com\/\?q=bdimg\+([^&]+).+ 302 https://image.baidu.com/search/index?tn=baiduimage&word=$1
 ^https:\/\/duckduckgo\.com\/\?q=b\+([^&]+).+ 302 https://www.bing.com/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=bing\+([^&]+).+ 302 https://www.bing.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=gg\+([^&]+).+ 302 https://www.google.com/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=gimg\+([^&]+).+ 302 https://www.google.com/search?&tbm=isch&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=gpt\+([^&]+).+ 302 https://chatgpt.com/?hints=search&q=$1
 ^https:\/\/duckduckgo\.com\/\?q=pp\+([^&]+).+ 302 https://www.perplexity.ai/search/new?q=$1
@@ -47,7 +49,7 @@
 ^https:\/\/duckduckgo\.com\/\?q=pornhub\+([^&]+).+ 302 https://cn.pornhub.com/video/search?search=$1
 ^https:\/\/duckduckgo\.com\/\?q=tmdb\+([^&]+).+ 302 https://www.themoviedb.org/search?query=$1
 ^https:\/\/duckduckgo\.com\/\?q=ddg\+([^&]+).+ 302 https://duckduckgo.com/?t=h_&q=$1
-^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.google.com/search?q=$1
+^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.bing.com/search?q=$1
 
 [Mitm]
 hostname = duckduckgo.com

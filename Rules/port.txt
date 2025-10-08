@@ -2,5 +2,6 @@
 # AUTHOR: Likhixang
 # REPO: https://github.com/Likhixang/Looney/new/main/Rules
 # UPDATED: 2025-10-08 11:52:34
-DOMAIN-KEYWORD,FacMata
-DOMAIN-KEYWORD,MLSHU
+DOMAIN-KEYWORD,facmata
+DOMAIN-KEYWORD,mlshu
+DOMAIN-KEYWORD,vavv

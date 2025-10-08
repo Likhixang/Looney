@@ -1,7 +1,6 @@
 # NAME: PORT
 # AUTHOR: Likhixang
 # REPO: https://github.com/Likhixang/Looney/new/main/Rules
-# UPDATED: 2024-07-14 14:48:34
-DOMAIN-KEYWORD,aca
-DOMAIN-KEYWORD,sqfly
-DOMAIN-KEYWORD,xqc
+# UPDATED: 2025-10-08 11:52:34
+DOMAIN-KEYWORD,FacMata
+DOMAIN-KEYWORD,MLSHU

@@ -1,29 +1,26 @@
-# How to use it?
+# 🧩 X-search
 
-1. Set Safari's default search engine to DuckDuckGo
-2. Enjoy Search AS: `Quickwords+Space+Search contents`
+**Safari Quick Search & Page Jump — Instant redirect via keyword + space + content**
 
-## Quickwords Support:
+> ⚡️ Superfast search shortcuts integrated with DuckDuckGo rewrite rules.
 
-| Quickword | Description                          |
-|:---------:|:------------------------------------:|
-|    bd     | [Baidu](https://www.baidu.com/)      |
-|  bdimg    | [Baidu img](https://image.baidu.com/)|
-|     b     | [Bing](https://www.bing.com/)        |
-|   bing    | [Bing](https://www.bing.com/)        |
-|   gimg    | [Google img](https://images.google.com/)|
-|   gpt    | [GPT](https://chatgpt.com/)        |
-|   pp    | [Perplexity](https://www.perplexity.ai/)        |
-|    wk     | [Wikipedia](https://zh.wikipedia.org/)|
-|   wiki    | [Wikipedia](https://zh.wikipedia.org/)|
-|    qm     | [Qimai](https://www.qimai.cn/)      |
-|    gh     | [GitHub](https://github.com/)        |
-|  github   | [GitHub](https://github.com/)        |
-|    tf     | Google search for [TestFlight](https://testflight.apple.com/) |
-|  fanyi    | [Google Translate](https://translate.google.com/)           |
-|  youtube  | [YouTube](https://www.youtube.com/)  |
-|  pornhub  | [Pornhub](https://cn.pornhub.com/)   |
-|   tmdb    | [TMDB](https://www.themoviedb.org/)  |
-|   ddg    | [Duckduckgo](https://duckduckgo.com/)        |
-|  Default  | [Google](https://www.google.com/)    |
-| Ongoing   | Stay tuned...                        |
+---
+
+## 📄 Basic Info
+
+| Field | Description |
+|:------|:-------------|
+| **Name** | X-search |
+| **Description** | Safari quick search and page jump, keywords + space + content for instant redirect |
+| **Author** | [Li Khixang](https://github.com/Likhixang) |
+| **Homepage** | [GitHub / Likhixang](https://github.com/Likhixang) |
+| **Open URL** | [X-search.md](https://github.com/Likhixang/Looney/blob/main/Markdown/X-search.md) |
+| **Icon** | ![X-search icon](https://raw.githubusercontent.com/Likhixang/Looney/main/Icons/X-search.png) |
+| **Date** | 2025-10-13 08:52:00 |
+
+---
+
+## ⚙️ How to Use
+
+1. **Set Safari's default search engine** → `DuckDuckGo`  
+2. **Type in the address bar** using this format:

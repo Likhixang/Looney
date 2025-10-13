@@ -25,6 +25,8 @@
 1. **Set Safari's default search engine** → `DuckDuckGo`  
 2. **Type in the address bar** using this format:
 
+Quickword + Space + Search content
+
 例如：
 
 - `bd 人工智能` → 打开百度搜索“人工智能”  
@@ -79,3 +81,30 @@
 ---
 
 ## 🧩 [Mitm]
+
+hostname = duckduckgo.com
+
+---
+
+## 🕒 Update Log
+
+| Date | Change |
+|:------|:--------|
+| **2025-10-13** | Initial release with 17 Quickwords and Bing fallback. |
+
+---
+
+## 🚀 Ongoing
+
+- Add multi-language Wikipedia redirects  
+- Add AI search (Claude / Gemini)  
+- Add Apple Developer & App Store shortcuts  
+- Add customizable Quickword config  
+
+---
+
+**Author:** [Li Khixang](https://github.com/Likhixang)  
+**Project:** [Looney / X-search](https://github.com/Likhixang/Looney)  
+**License:** MIT
+
+---
